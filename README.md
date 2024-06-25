@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ron</h1>
 <h3 align="center">Computer science student at AMAOed</h3>
 
-- 🔭 I’m currently working on **Movie review personal project**
+- 🔭 I’m currently working on **doing some works**
 
 - 🌱 I’m currently learning **Javascript**
 
